@@ -7,7 +7,7 @@ tags:
   - JupyterNotebook
 layout: layouts/post.njk
 ---
-# Run_Jupyter_Notebooks_on_GPU_on_AWS
+
 This is the tutorial for "How to set up Jupyter Notebooks on GPU on the Cloud" by Monique Marins on Youtube
 
 # Overview
