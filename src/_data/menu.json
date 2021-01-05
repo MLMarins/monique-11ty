@@ -7,10 +7,6 @@
         "label": "Tag List",
         "url": "/tags"
     },
-                {
-        "label": "Resumé",
-        "url": "/resume"
-                },
     {
         "label": "GitHub",
         "url": "https://github.com/MLMarins",
