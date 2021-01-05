@@ -1,18 +1,17 @@
 ---
 title: How to set up Jupyter Notebooks on GPU on the Cloud
 description: How to set up Jupyter Notebooks on GPU on the Cloud
-date: 2021-01-30
+date: 2020-01-30T17:30
 thumb: "https://i9.ytimg.com/vi/ccgOWSMeOw0/maxresdefault.jpg?time=1609871100000&sqp=CPzd0v8F&rs=AOn4CLAKCwRYDYK4LMr_WeKS90poZdLTFQ"
 tags:
   - aws
   - JupyterNotebook
-layout: layouts/post.njk
 ---
 
 
-This is the tutorial for "How to set up Jupyter Notebooks on GPU on the Cloud" by Monique Marins on Youtube
+### This is the tutorial for "How to set up Jupyter Notebooks on GPU on the Cloud" by Monique Marins on Youtube
 
-# Overview
+https://www.youtube.com/watch?v=ccgOWSMeOw0
 
 This is the tutorial for the following [video](https://www.youtube.com/watch?v=ccgOWSMeOw0) on Youtube: "How to set up Jupyter Notebooks on GPU on the Cloud" by Monique Marins
 

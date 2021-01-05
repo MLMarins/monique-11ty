@@ -1,9 +1,13 @@
 const pluginTailwind = require('eleventy-plugin-tailwindcss');
+const embedYouTube = require("eleventy-plugin-youtube-embed");
+
 
 module.exports = (config) => {
   config.addPlugin(pluginTailwind, {
     src: 'src/assets/css/*'
   });
+
+  config.addPlugin(embedYouTube);
 
   config.setDataDeepMerge(true);
 
@@ -25,6 +29,7 @@ module.exports = (config) => {
   config.addCollection('pagedPosts', require('./lib/collections/pagedPosts'));
   config.addCollection('pagedPostsByTag', require('./lib/collections/pagedPostsByTag'));
 
+
   return {
     dir: {
       input: 'src',
@@ -36,3 +41,4 @@ module.exports = (config) => {
     markdownTemplateEngine: 'njk'
   };
 };
+
