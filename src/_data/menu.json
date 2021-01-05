@@ -1,0 +1,30 @@
+[
+    {
+        "label": "About",
+        "url": "/about"
+    },
+    {
+        "label": "Tag List",
+        "url": "/tags"
+    },
+                {
+        "label": "Resumé",
+        "url": "/resume"
+                },
+    {
+        "label": "GitHub",
+        "url": "https://github.com/MLMarins",
+        "newTab": true
+    },
+        {
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/moniquemarins/",
+        "newTab": true
+    },
+
+            {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UC0NmpXVzg_gkKwzz14ZXxxw",
+        "newTab": true
+    }
+]
