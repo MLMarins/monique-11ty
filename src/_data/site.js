@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Data Science',
+  title: 'Monique Marins',
   description: 'Artificial Intelligence applied to cool stuff',
   keywords: ['datascience', 'ai', 'machinelearning', 'ml'],
   // your site url without trailing slash

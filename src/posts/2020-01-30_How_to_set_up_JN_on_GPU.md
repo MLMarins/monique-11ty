@@ -2,7 +2,7 @@
 title: How to set up Jupyter Notebooks on GPU on the Cloud
 description: How to set up Jupyter Notebooks on GPU on the Cloud
 date: 2020-01-30T17:30
-thumb: "https://i9.ytimg.com/vi/ccgOWSMeOw0/maxresdefault.jpg?time=1609871100000&sqp=CPzd0v8F&rs=AOn4CLAKCwRYDYK4LMr_WeKS90poZdLTFQ"
+thumb: "../img/2020-01-30_how_to_setup_JN.jpg"
 tags:
   - aws
   - JupyterNotebook
