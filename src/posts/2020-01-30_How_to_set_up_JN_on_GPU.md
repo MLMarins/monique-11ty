@@ -2,7 +2,7 @@
 title: How to set up Jupyter Notebooks on GPU on the Cloud
 description: How to set up Jupyter Notebooks on GPU on the Cloud
 date: 2020-01-30T17:30
-thumb: "../img/2020-01-30_how_to_setup_JN.jpg"
+thumb: "../img/2020-01-30_how_to_setup_JN_thumb.jpg"
 tags:
   - aws
   - JupyterNotebook
@@ -35,7 +35,7 @@ The steps to get started are:
 You need an EC2 instance, but first create your account here https://portal.aws.amazon.com/billing/signup#/start
 
 
-![png](/posts/assets/Run_Jupyter_Notebooks_on_GPU_on_AWS/output_5_0.png)
+![png](/posts/assets/2020-01-30_Run_Jupyter_Notebooks_on_GPU_on_AWS/output_5_0.png)
 
 
 ### 2. Set Up Your Cloud Computing Server
@@ -43,13 +43,13 @@ You need an EC2 instance, but first create your account here https://portal.aws.
 
 Navigate to EC2 instance. Select "Launch Instance"
 
-![png](/posts/assets/Run_Jupyter_Notebooks_on_GPU_on_AWS/output_8_0.png)
+![png](/posts/assets/2020-01-30_Run_Jupyter_Notebooks_on_GPU_on_AWS/output_8_0.png)
 
 
 
 The instances with GPU’s are those that start with either g2 or p2. I recommend the p2.xlarge, which costs a little less than a dollar an hour. If you want something less expensive, the g2.2xlarge is about $0.65/hr, though it isn’t quite as fast or as powerful.
 
-![png](/posts/assets/Run_Jupyter_Notebooks_on_GPU_on_AWS/output_10_0.png)
+![png](/posts/assets/2020-01-30_Run_Jupyter_Notebooks_on_GPU_on_AWS/output_10_0.png)
     
 
 
@@ -58,7 +58,7 @@ The instances with GPU’s are those that start with either g2 or p2. I recommen
 Create a custom TCP rule to allow port 8888
 
 
-![png](/posts/assets/Run_Jupyter_Notebooks_on_GPU_on_AWS/output_13_0.png)
+![png](/posts/assets/2020-01-30_Run_Jupyter_Notebooks_on_GPU_on_AWS/output_13_0.png)
 
 
 
